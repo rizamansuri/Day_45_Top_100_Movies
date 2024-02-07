@@ -1,4 +1,3 @@
-# In the name of Allah the most beneficent, the most merciful
 from bs4 import BeautifulSoup
 import requests
 
